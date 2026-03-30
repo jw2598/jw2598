@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 👋
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:d5ccff,100:b8d7ff&height=120&text=Hello%20World&animation=&fontColor=ffffff&fontSize=50" />
